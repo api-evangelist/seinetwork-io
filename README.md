@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sei is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by multicoin-capital) and added to the network as a stub for full-pipeline profiling.
-- https://seinetwork.io
+Sei is a blockchain infrastructure platform focused on high-performance, low-latency trading and decentralized finance. It provides a scalable, secure layer‑1 solution optimized for financial markets, enabling institutions, funds, and developers to build fast, reliable on‑chain applications. The network emphasizes speed, reliability, and scalability for modern digital asset markets, supporting stablecoins, payments, and DeFi use cases.
+
+**Areas:** Company · Blockchain · Infrastructure · Finance · DeFi
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://seinetwork.io)
+- [Documentation](https://docs.sei.io/)
+- [Getting started](https://docs.sei.io/learn/user-quickstart)
+- [Blog](https://blog.sei.io/)
+- [Terms of service](https://dashboard.sei.io/terms)
+- [GitHub](https://github.com/sei-protocol)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/seinetwork-io/](https://apis.io/providers/seinetwork-io/).
